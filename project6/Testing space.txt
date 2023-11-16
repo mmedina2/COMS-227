@@ -1,0 +1,8 @@
+
+import java.util.Scanner
+	public class double volume((double) radius1){
+	return (4.0/3.0) * math.PI * math.pow(radius1, 3.0);
+}
+	public static void main(String[] args){
+		Scanner in = new Scanner(System.in)
+}
